@@ -1,3 +1,3 @@
 # AviParshan.com
 Personal Website
-https://avipars.github.io/AviParshan.com/
+https://avipars.github.io/avi_landing
