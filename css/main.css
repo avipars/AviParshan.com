@@ -156,10 +156,12 @@ p.paragraph {
 }
 .centerdevices, .sidedevices {
 	position: relative;
+/*
 	max-width: 325px;
 	min-width: 100%;
 	margin-right: auto;
 	margin-left: auto;
+*/
 }
 .header {
 	padding: 20px 0 90px 0;
